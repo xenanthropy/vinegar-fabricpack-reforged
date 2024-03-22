@@ -1,0 +1,17 @@
+name = "Better Statistics Screen"
+filename = "betterstats-3.9.4+fabric-1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4e1233ab8d957a34d2bc24e853cacaa67f96aa68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5197382
+project-id = 667464
+
+[option]
+optional = true
+description = "replaces vanilla statistics screen with an improved one"

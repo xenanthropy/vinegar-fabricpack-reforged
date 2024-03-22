@@ -1,0 +1,13 @@
+name = "More Wizards [More Magic Series]"
+filename = "morewizardsmod-0.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc07cd39c5452ddcc739a0193974fb21e99ca1e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5193226
+project-id = 973078

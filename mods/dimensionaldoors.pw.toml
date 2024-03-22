@@ -1,0 +1,13 @@
+name = "DimensionalDoors"
+filename = "dimdoors-5.3.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7220d1040e51a4cfc033a7c25020828befbcd085"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5049050
+project-id = 284876

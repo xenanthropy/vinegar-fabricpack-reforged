@@ -1,0 +1,13 @@
+name = "The Ancient Trinkets Index [More Magic Series]"
+filename = "tatimod-0.0.4-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7487cbdc7a63f92690b470ee524fc73e866c442e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5118367
+project-id = 964815

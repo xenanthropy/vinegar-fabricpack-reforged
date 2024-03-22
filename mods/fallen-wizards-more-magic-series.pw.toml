@@ -1,0 +1,13 @@
+name = "Fallen Wizards [More Magic Series]"
+filename = "fallenwizardsmod-0.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f19b329aec429f72a06ca4bc942bc23e09626ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5170778
+project-id = 979675

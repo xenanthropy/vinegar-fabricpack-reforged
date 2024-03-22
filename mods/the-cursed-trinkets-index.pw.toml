@@ -1,0 +1,13 @@
+name = "The Cursed Trinkets Index [More Magic Series]"
+filename = "tctimod-0.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "228c949b983152d970cd3b5eaae98178f667038d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5118325
+project-id = 975471
