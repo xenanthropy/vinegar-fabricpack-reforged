@@ -45,6 +45,11 @@ hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "eae248a59ef6afb914b70acfde38ed278a0de33f8f63972f5e14e31a3693886d"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
 metafile = true
@@ -155,6 +160,11 @@ hash = "42904f49f8065582f46cdd222a8cbf8c67dca5ef80f1cb6c235655dc6a570b7b"
 metafile = true
 
 [[files]]
+file = "mods/dark-waters.pw.toml"
+hash = "dd64b93dadb2f718051f3c089a56e299182ab221cef6420bae7e1e189a7c7e32"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration-fabric.pw.toml"
 hash = "3c5399592fd7617849de2b155a9222c2863fb80d8197b582cae5ef8d77fb5512"
 metafile = true
@@ -196,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
@@ -220,6 +230,11 @@ hash = "040d02ad589e0ebb2bc6b829e1ec983c3a3e6cb269811f33af069397fe97b4d0"
 metafile = true
 
 [[files]]
+file = "mods/gazebos.pw.toml"
+hash = "fcc8e8e7a6ffcf540b7f40148e85afe675ac514c07ebca2bb0346f5ea0986e52"
+metafile = true
+
+[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "57b3027a5fc1975acd687f947a02f70ed0693f4bd2bee293ab42583609f95839"
 metafile = true
@@ -237,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
@@ -285,6 +305,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
+metafile = true
+
+[[files]]
 file = "mods/more-wizards.pw.toml"
 hash = "ba6f24c58a761609532a4bf69e95f3c9f0ce573ead4aebc984483002f31a0217"
 metafile = true
@@ -302,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
+metafile = true
+
+[[files]]
+file = "mods/nevermore.pw.toml"
+hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
 metafile = true
 
 [[files]]
@@ -380,6 +410,16 @@ hash = "215023d51a4785a2dd40f8a40c351df5a98bcf74dcfe3cd3ab518f508a618496"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "f646ace7d1ba816e9753d98da2acb72bec0f59510ca7040709caea312e6f930b"
+metafile = true
+
+[[files]]
 file = "mods/simply-skills.pw.toml"
 hash = "790a6a92238b0d4e86cf597a420f1b1dc0f5b6d52aa540806ebe115e3c5e939a"
 metafile = true
@@ -387,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "8395601ad786ac31ba176b248f86a4fac1e8d21175e32b9b91e884b27c3ebe16"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "2eca5e2998095a334f52185f5788c76ca48753f757308fdd29a5bfc2a006f2d5"
 metafile = true
 
 [[files]]
@@ -411,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "7e7fb324ca663d3ff128f62d9b424e7f799edb4535d94d15a3a5f64080b81653"
+hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
 
 [[files]]
@@ -455,6 +500,11 @@ hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
+file = "mods/veinminer.pw.toml"
+hash = "23f12e1242468eae49d8c3fd5a4d8b2cd5574484425cda50a4e57c173368d739"
+metafile = true
+
+[[files]]
 file = "mods/victus.pw.toml"
 hash = "36866fdd426077388e5ad24286c59c70f5bd78f72bdbf3f2fbc76733ca4d6b34"
 metafile = true
@@ -475,8 +525,18 @@ hash = "551bc9cba0d2f7d37dd2d436032108851d0078035e73c032d6ca77742dcbb289"
 metafile = true
 
 [[files]]
+file = "mods/yigd.pw.toml"
+hash = "2747bdcecb68ac10a8af7f86bc38f09c4ed6959b7396834c241ebdab7d046332"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api-fabric.pw.toml"
 hash = "39a31a5c6bbb5fb31d4ee996b5540b5c4e4ffef7ffd87df76ff036a1263b2046"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "911d7f5d030bc0990e87e2a3cd113ef059c8229849f131f5957ae275634a9247"
 metafile = true
 
 [[files]]
@@ -485,13 +545,33 @@ hash = "5563f135632355c7b180c1f93087f6789863e3d605ee3149ba9075fdc917f9bd"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "7ed6bab812fe2556736e8926992106974588843938d57a4eecf426158cf7ca29"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-mineshafts-fabric.pw.toml"
 hash = "4b051a6f31f33f629199e2033a5773fa25e24fcdaebf250c96f95a96f629b758"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "ceffda181c95ab0ecbc91e01071d2df27d53117da2ae6453c1f0bb46be0fe4f0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-strongholds-fabric.pw.toml"
 hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "3d65c189ea7cc2d893a59cfe2aec5fbd9d82126af34c1582c3b04be43f604fde"
 metafile = true
 
 [[files]]
