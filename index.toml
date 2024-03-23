@@ -15,6 +15,16 @@ hash = "d4022e0035cdd3ee0cbc4b8e9bddf7b3d9b90525635c1ad74db6238513027744"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-core.pw.toml"
+hash = "0a9fc32d85146e976fbd9f17886bb95ac5e8b547b72b42c6a1c93ecf9676cb58"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "715793e60d0d0e3565e672ddc9f5a180991ddc6bec36b9b1f5ce9416d92c199c"
+metafile = true
+
+[[files]]
 file = "mods/applied-botanics-addon.pw.toml"
 hash = "6b525f6a307cdf9b73ebb7ef6266e4a206cbe5524274f444e52d5e8968348033"
 metafile = true
@@ -189,6 +199,16 @@ hash = "61167db9eca29b654df04c0707762dfb2bccfb90a12e663a061161bd59b82ee8"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "08ca505ea1546487de30c58db26400b9d48868a34e186425fab4c57de55332a7"
+metafile = true
+
+[[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "3abef0e1c6dc288fde335592aa652182e1e2c0d6ced4b3be27e1cd9ada1b012d"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "64e7025e5376736c92574192fb808400c946bae492494d0e8d82130ca7435696"
 metafile = true
@@ -210,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
 metafile = true
 
 [[files]]
@@ -236,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/forgiving-world.pw.toml"
 hash = "040d02ad589e0ebb2bc6b829e1ec983c3a3e6cb269811f33af069397fe97b4d0"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-core.pw.toml"
+hash = "84f235547bd6ac862320f245aedc7ce14acd6f38d9100352cb2f15f476350039"
 metafile = true
 
 [[files]]
