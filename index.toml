@@ -210,6 +210,16 @@ hash = "040d02ad589e0ebb2bc6b829e1ec983c3a3e6cb269811f33af069397fe97b4d0"
 metafile = true
 
 [[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "57b3027a5fc1975acd687f947a02f70ed0693f4bd2bee293ab42583609f95839"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f5d1eeb1669709abdfb680651900bac62b2779a687c7d804f06484df1fdcd5b8"
+metafile = true
+
+[[files]]
 file = "mods/gobber-fabric.pw.toml"
 hash = "bc016a8bce5c8bd50aba3965768dd51e4b52acf022ff0d6e6b029a13843d9a28"
 metafile = true
@@ -265,6 +275,11 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
@@ -317,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d6d950f5e4c8d00ae178690e45a47068792733e7652fe600e83f6995a1c1f798"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "51f99f67cd59817dcee434483c7e53f57c48edfbc44d2e250f2d5cf393c5d1e6"
 metafile = true
 
 [[files]]
