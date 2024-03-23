@@ -40,6 +40,10 @@ hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
 
 [[files]]
+file = "mods/aylyth-1.20.1-2.0.2.jar"
+hash = "d0cae91bd47485894667825478a2f0887b661dac94f24dca89ffa2c4539394dd"
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
@@ -207,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
 metafile = true
 
 [[files]]
@@ -431,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "2eca5e2998095a334f52185f5788c76ca48753f757308fdd29a5bfc2a006f2d5"
+hash = "d94afa6b932f2e659fd0b6e891be6501f9f40462f28fd06bda8006d2bf6d1712"
 metafile = true
 
 [[files]]
