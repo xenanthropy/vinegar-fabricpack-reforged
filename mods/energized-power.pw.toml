@@ -1,0 +1,13 @@
+name = "Energized Power"
+filename = "energizedpower-1.20.1-2.9.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10cff64a50847a2fb68b213ca778c849c1ef63b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5162681
+project-id = 782147

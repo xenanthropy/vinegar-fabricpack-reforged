@@ -190,6 +190,11 @@ hash = "0e173eb7eb0b41931a062389d2c1430c5e648e620ff91b5eab95a204ab16011c"
 metafile = true
 
 [[files]]
+file = "mods/energized-power.pw.toml"
+hash = "36b1b7f5ae4c0dd509ee8e82c30ea8cc42bed923bf8f3cb69c776c5af3d64d84"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
 metafile = true
