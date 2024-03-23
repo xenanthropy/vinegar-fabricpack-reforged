@@ -50,6 +50,11 @@ hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
@@ -240,6 +245,11 @@ hash = "e5f3772b2b3f9976bccd9720a15dad945c74e1ed83d9741cc909fd4a7ebe6cf7"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9693e36d75b2b054cd7ff62348c4f52813890ce9e5bf7390f7014a11c69b0c6b"
+metafile = true
+
+[[files]]
 file = "mods/knaves-needs.pw.toml"
 hash = "261b1ad09e9edb5016dfbe3b5e114c46d0a3c0bd2e908957395abfea7dfa7806"
 metafile = true
@@ -257,6 +267,16 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "caa5739308850a5212429d400095184122652b112022cbba34b537d99c32925e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
@@ -350,11 +370,6 @@ hash = "215023d51a4785a2dd40f8a40c351df5a98bcf74dcfe3cd3ab518f508a618496"
 metafile = true
 
 [[files]]
-file = "mods/simple-copper-pipes.pw.toml"
-hash = "ea1c9cee144c54041b351ee20c49e838f412783562afb315fded155b59d9caaa"
-metafile = true
-
-[[files]]
 file = "mods/simply-skills.pw.toml"
 hash = "790a6a92238b0d4e86cf597a420f1b1dc0f5b6d52aa540806ebe115e3c5e939a"
 metafile = true
@@ -432,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/victus.pw.toml"
 hash = "36866fdd426077388e5ad24286c59c70f5bd78f72bdbf3f2fbc76733ca4d6b34"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
 metafile = true
 
 [[files]]
