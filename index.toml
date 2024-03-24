@@ -94,11 +94,6 @@ hash = "a692ae3e8bd9ed6f2ee4ece3e47ee4fb53f903053f8293aa29172f07985646d4"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "ff2d4b4073f53d1e87f15456a3d21713e3e64352b8f86e767ab4934668417208"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "2278029a39bb4c99e7a846a440653e47f65e7cff0dbd327c3d074efb6e0b3c31"
 metafile = true
@@ -326,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/fallen-wizards-more-magic-series.pw.toml"
 hash = "e512ef3e2dcc31e46f8b060fa306d9f57d39124bf79649354fe612920f4887dc"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "73fde59e02a0f27f855b6d790d0fa430c20e14a531b33b44e68ff1a22e970776"
 metafile = true
 
 [[files]]
@@ -831,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "551bc9cba0d2f7d37dd2d436032108851d0078035e73c032d6ca77742dcbb289"
+metafile = true
+
+[[files]]
+file = "mods/yawp.pw.toml"
+hash = "468b6bb283ce57cb52bee981c2aff112cbfca167c3a14899b242b44ec16873c0"
 metafile = true
 
 [[files]]
