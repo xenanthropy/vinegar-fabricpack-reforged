@@ -79,6 +79,11 @@ hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
@@ -169,6 +174,11 @@ hash = "29e76e233eb1851f53a82772e1f424a5e0f1e6c41ff64b013c8a517c55ebefe8"
 metafile = true
 
 [[files]]
+file = "mods/clear-despawn-fabric.pw.toml"
+hash = "1534f58ae46ffedc1123495989220558fa6f8905ce893bed4a6a0ebd4acd9e86"
+metafile = true
+
+[[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "64d21b094bd985668a27137909a2c83b6566cd8e934029a7ef51411221a9cc7c"
 metafile = true
@@ -181,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "f3d118400c2d4650908915932d2c78c7031baa1725e875d207d786bc77dc094b"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
 metafile = true
 
 [[files]]
@@ -286,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "7d8b0a844771b27e9bffb5d45d6f357e88e132fba303f6b1c96a116071ad03c9"
 metafile = true
 
 [[files]]
@@ -409,6 +429,11 @@ hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "27e4ef697aa4406fb68415afd6f05cc84db88ead499ebda45a7cac542683deee"
 metafile = true
@@ -459,6 +484,11 @@ hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "80fee887ee097e11032d6de2ac705010fba0f25e8d45704124e0d0582b9a8ba0"
+metafile = true
+
+[[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
 hash = "05e966beea716a75f9b58ce911233eedc07719124015a5d01f95d0c99ca12f8f"
 metafile = true
@@ -485,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cb5f4d5b3be1a067da34881e7ce08aa98b4c5b20ff801f1aae5cdd80d53f4ce4"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -506,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "87f8a6654c9b2dc119021756a28c8e995897c87501765a75a0aa922017784e4f"
 metafile = true
 
 [[files]]
@@ -531,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.pw.toml"
+hash = "e54de2fe5f6790f00b9d7b028f6769fd568a06ee23451f93e0510b5a7a617c6d"
 metafile = true
 
 [[files]]
@@ -594,6 +634,11 @@ hash = "342497ca6e1e5feae9a6a17d2c8edb010649c08b064d423aff706c9c21df68c4"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "dcdf257fb653385380c6289abf39ef80ddc870357bbfab9f321758db80c9b4c7"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "f14f815f6e36b200f0caefc6e944141846a9747c7209c3dd94885a7c2f5c6cfc"
 metafile = true
@@ -626,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "ad34953f92e1e77f759d7bd5b4ece00bc6be4181d440ca72e38ed5feecb3657b"
+metafile = true
+
+[[files]]
+file = "mods/set-world-spawn-point.pw.toml"
+hash = "58fbc359a280f7a907aea4c308fe78c3051d5b7639e3a9ee6aa465306a4d386d"
 metafile = true
 
 [[files]]
@@ -666,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
 metafile = true
 
 [[files]]
@@ -766,6 +821,11 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "92b95f0f3973c8a8e2aff6807485d32aa26a051a555798346e85d5bcaa304fbf"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
