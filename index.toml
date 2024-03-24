@@ -529,6 +529,11 @@ hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "a6811c7e6f26a2a2ef55294975af0ebd423f48c935996b78fd538ea4b728e013"
 metafile = true
@@ -689,6 +694,11 @@ hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4a9b09e2702f231a4d9fe598d23c07f6587df61a67c3689f11c1a7b0c5bb146c"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "7f8c34a7d709d65a327392b31b8b9a018b512dfbc9660b8559a4063f9f6e6252"
 metafile = true
@@ -716,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/the-cursed-trinkets-index.pw.toml"
 hash = "19413926113e1f63d8a0a8a27aed4b6ff458e311d189d2a9299fa0b584ac61a6"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "bbad1f945df9c8ac5fa3d46cf8f4afb7e33af033f6b2ad50f4f77b2ddddced3a"
 metafile = true
 
 [[files]]
