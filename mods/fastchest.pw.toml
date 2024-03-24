@@ -1,11 +1,12 @@
 name = "fastchest"
-filename = "fast-chest-1.5+1.20.2.jar"
+filename = "fast-chest-1.5+1.20.jar"
+side = "client"
 
 [download]
-url = "https://github.com/FakeDomi/FastChest/releases/download/1.5%2B1.20.2/fast-chest-1.5+1.20.2.jar"
+url = "https://github.com/FakeDomi/FastChest/releases/download/1.5%2B1.20/fast-chest-1.5+1.20.jar"
 hash-format = "sha256"
-hash = "7e28639f875e08eef5a247077dc273d28869823c1ec473198f4468a48c3499f0"
+hash = "e2a6b132cccdd2454d53be1b3378ef426d41bbfca5313a51f9f159324483edbb"
 
 [option]
 optional = true
-description = "Makes chests use static models - can improve performance\nbut will remove chest opening animation"
+description = "Makes chests use static models which can increase when around a lot of chests\nNOTE: removes chest opening animation"
