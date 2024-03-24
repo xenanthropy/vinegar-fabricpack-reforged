@@ -14,4 +14,4 @@ version = "fAVxiMK6"
 
 [option]
 optional = true
-description = "add simplified terrain past Minecraft's default view distance\nto improve performance and allow for longer draw distances."
+description = "add simplified terrain past Minecraft's default view distance\nto improve performance and allow for longer draw distances.\nNOTE: release version of Distant Horizons, won't work with iris from this list"
