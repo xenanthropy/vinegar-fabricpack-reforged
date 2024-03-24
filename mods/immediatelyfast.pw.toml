@@ -14,4 +14,4 @@ project-id = 686911
 
 [option]
 optional = true
-description = "Improves immediate mode rendering performance of minecraft\Note: does not work with beta version of iris"
+description = "Improves immediate mode rendering performance of minecraft\nNote: does not work with beta version of iris"
