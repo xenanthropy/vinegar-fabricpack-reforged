@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b5dec0f6ae302c2aa4f3e801b289336c218fd15486a8cee5114a3795ff67ab2b"
+hash = "4db8922347711e86adef046e17589b240068bf3449ffa0abfdd7da63d5912557"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "64e7025e5376736c92574192fb808400c946bae492494d0e8d82130ca7435696"
+hash = "8b183ef539980ec31d3987717c22508a31c3acdb119ae66d3aed028681395c54"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallen-paladins-and-priests.pw.toml"
-hash = "1bf4d4d0a4fe5c0891b50b1ea929333053cf50b49970cc8a7d9bf0062c3384f7"
+hash = "b5f44ffa45c7ddb829a41ad8ad50153d82a6c698405be300cf56748a76fd82e9"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "02421594640b86ccd43e888d0413ade610b4a87bb5a2325cccdfda0a502c5b61"
+hash = "e5b1afd1fedd08ba9fca6d88fe1f0fedf6154fc7b6fa92946dfe0f8357efeebd"
 metafile = true
 
 [[files]]

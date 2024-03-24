@@ -1,13 +1,13 @@
 name = "Fallen Paladins and Priests [More Magic Series]"
-filename = "fpapmod-2.0.7-1.20.1.jar"
+filename = "fpapmod-2.0.8-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b774c4cc674586c5db07e544adc7b53d68071b41"
+hash = "3eb2e3c4581c34eed405d54acfc3730ecd4f158c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5102547
+file-id = 5205584
 project-id = 969718
