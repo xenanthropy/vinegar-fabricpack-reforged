@@ -219,6 +219,16 @@ hash = "28ce6d0db93e8f16d4d145759fe422a87b4fb46a33d937e86a5892203f55c8d8"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4347a900e5f4c6181e6e7216d0a91304d64d3235972b4b6860a1e08312feadc6"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "435720e2e9b6b46b06e2b7c0044b60d7faae30a4169b270a876d0b120084ab83"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
@@ -321,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/fallen-wizards-more-magic-series.pw.toml"
 hash = "e512ef3e2dcc31e46f8b060fa306d9f57d39124bf79649354fe612920f4887dc"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
 metafile = true
 
 [[files]]
@@ -619,6 +634,16 @@ hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "d53a9b17a24b687107b6012579418f9a4dd49eaf768513f952e970e3b43de8ab"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "e127e0334bbfc497d647fe7d733111b4d9a10b5e2c453993337fc9e5da165d1c"
+metafile = true
+
+[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
 metafile = true
@@ -716,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "8395601ad786ac31ba176b248f86a4fac1e8d21175e32b9b91e884b27c3ebe16"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "e018471382a37f33b29d446a734582e6897a0cf194d742748a06b99203aaf5c0"
 metafile = true
 
 [[files]]
