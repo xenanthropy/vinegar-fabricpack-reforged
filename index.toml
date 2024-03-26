@@ -364,6 +364,11 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/forgiving-world.pw.toml"
 hash = "040d02ad589e0ebb2bc6b829e1ec983c3a3e6cb269811f33af069397fe97b4d0"
 metafile = true
@@ -439,6 +444,11 @@ hash = "27e4ef697aa4406fb68415afd6f05cc84db88ead499ebda45a7cac542683deee"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests-for-fabric.pw.toml"
+hash = "5ba2284b2c396c0089b2891f1553b6cd81fec685171bb549c316e3c014a1741f"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
@@ -476,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/leaky.pw.toml"
 hash = "0119c5b0e158a299b3e25298034de8f3a3e8db810da100d02c8d71ca80192660"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
 metafile = true
 
 [[files]]
@@ -615,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "eded1292388e171d4708858184c4cacc0fd3821912948174df2cbe8afeb1b102"
+hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
