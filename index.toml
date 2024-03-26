@@ -389,6 +389,11 @@ hash = "040d02ad589e0ebb2bc6b829e1ec983c3a3e6cb269811f33af069397fe97b4d0"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "e12efb0447977a5259d05fbbb05049cc73a15314058761fb276485c70b86fe37"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
 hash = "c4bd60b5f2810d1b1fe3091fdab3a80636c91e15a815cee9b6052fb882958ca3"
 metafile = true
@@ -636,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "5c4243b91264f308b11e11477736d0ff22ffeb84b3cd495ef522380bdd539f81"
 metafile = true
 
 [[files]]
