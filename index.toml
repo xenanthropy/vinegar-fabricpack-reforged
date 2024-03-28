@@ -204,6 +204,16 @@ hash = "7656223488484e966e067bd517eab3b135c181aa8d8419c6ee8d8d6e39b74a19"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "639aee7e72ceaf8b649c473ab94282a20152f1438b599f4328ac5726c6a0ecfe"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "7d8c0c0bb4d93eb33b62bc5e69509051de5902b6d40c10807ed0f8e96507139a"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "d67269baf485814ebd40b2f12475e2fd639db6c3d69863dee6af0d0ab2ab6216"
 metafile = true
@@ -254,6 +264,11 @@ hash = "8c9ba86590a759de2ae7fe9160af07f5fa1a6783c91127fc8ca469c0e741a318"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "55e7bca7f4b2f9fcd5901f76469bbb397b1be2a58fe61208db155a49b1fbc8e0"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "9b92bcb2dcfb0f22b49ea2da1ba30f356eae1b192b9abe720a179ff72dedbf42"
 metafile = true
@@ -261,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "cfe4c0f978dcb9f5f9503488cb2aa5149fd6fa9e1b25e2eb2d8ee78e3c1dc8be"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "63577d4abd5be5c2b061bd3d5f6bdf0878b7ab0e8e2e0b7f98bdeb50e009134f"
 metafile = true
 
 [[files]]
@@ -439,6 +459,11 @@ hash = "bc016a8bce5c8bd50aba3965768dd51e4b52acf022ff0d6e6b029a13843d9a28"
 metafile = true
 
 [[files]]
+file = "mods/holograms.pw.toml"
+hash = "0210d3ca5fa16e7fa066f024cbbc500ebb71d5043c46dc23d4d045d7c77b900a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1765b198a7f18bd4361500a9d53688ff4ae584de3cee4d6ad2c5cc562ab188aa"
 metafile = true
@@ -489,6 +514,11 @@ hash = "9693e36d75b2b054cd7ff62348c4f52813890ce9e5bf7390f7014a11c69b0c6b"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+hash = "fa82b4c7cf2b2b3a3a3d0b5afbd624d8036f6201a9c1854f3ba3c0c8feb254f9"
+metafile = true
+
+[[files]]
 file = "mods/knaves-needs.pw.toml"
 hash = "261b1ad09e9edb5016dfbe3b5e114c46d0a3c0bd2e908957395abfea7dfa7806"
 metafile = true
@@ -526,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "80fee887ee097e11032d6de2ac705010fba0f25e8d45704124e0d0582b9a8ba0"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch-forge.pw.toml"
+hash = "3b3f3e6eea10c185d465b8c0bc887a5ef559d2b035ecdd3b197dec3a5a5465ae"
 metafile = true
 
 [[files]]
@@ -670,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
+hash = "eded1292388e171d4708858184c4cacc0fd3821912948174df2cbe8afeb1b102"
 metafile = true
 
 [[files]]
@@ -721,6 +756,11 @@ metafile = true
 [[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "47811f1ce283a8f1ed4bffef4d64881a497e709cf1e7b76f908fb43b73f80f8c"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "7907d6767fc871c8949c4ee64407796b6c9512207a0a06aa8f874357ec81f2f2"
 metafile = true
 
 [[files]]
@@ -844,6 +884,11 @@ hash = "19413926113e1f63d8a0a8a27aed4b6ff458e311d189d2a9299fa0b584ac61a6"
 metafile = true
 
 [[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "01138a074a1097d6177d5d2d09cb9e26f2b46c3bf178e17f8b76971409886dd4"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "bbad1f945df9c8ac5fa3d46cf8f4afb7e33af033f6b2ad50f4f77b2ddddced3a"
 metafile = true
@@ -856,11 +901,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "23f12e1242468eae49d8c3fd5a4d8b2cd5574484425cda50a4e57c173368d739"
 metafile = true
 
 [[files]]
