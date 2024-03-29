@@ -11,3 +11,7 @@ hash = "b4e8254f2a57e44ca1605d59445d5461652cb9b6"
 [update.modrinth]
 mod-id = "M1ZKbfkJ"
 version = "YdY0BGLR"
+
+[option]
+optional = true
+description = "Adds extra mod integration into Journeymap/nONLY SELECT IF YOU'VE SELECTED JOURNEYMAP"
