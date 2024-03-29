@@ -1,6 +1,6 @@
 name = "JourneyMap"
 filename = "journeymap-1.20.1-5.9.18p1-fabric.jar"
-side = "client"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/3Msidurl/journeymap-1.20.1-5.9.18p1-fabric.jar"
@@ -11,7 +11,3 @@ hash = "e8792e8ceb213489d373a58874878cc722f1dc08"
 [update.modrinth]
 mod-id = "lfHFW1mp"
 version = "3Msidurl"
-
-[option]
-optional = true
-description = "map and minimap mod (optional in-case you want to use something like Xaero's)"

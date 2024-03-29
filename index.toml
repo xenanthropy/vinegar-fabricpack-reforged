@@ -164,6 +164,11 @@ hash = "bae47b3a9f8312e237e0d89ae65e725ba8a0afbda0a02c5c439f508735c41b6e"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "c9046358764d73949cc7f24ebd02741f996db89ce448c92f94bb3a2ae4f17e74"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "29e76e233eb1851f53a82772e1f424a5e0f1e6c41ff64b013c8a517c55ebefe8"
 metafile = true
@@ -509,8 +514,13 @@ hash = "f5edf9001cfde825363000c5be416672ab638da122baf70b3a092e072d308901"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-server.pw.toml"
+hash = "f4a51837c43a7a5e21ac0422eef8c9b7e5335a1463b0d36f415b3e9c42306d72"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9693e36d75b2b054cd7ff62348c4f52813890ce9e5bf7390f7014a11c69b0c6b"
+hash = "c5b5276e6f6ee21e1df6fe7f5c449bab6acb6242994d54563d1095be370474a3"
 metafile = true
 
 [[files]]
