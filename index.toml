@@ -340,12 +340,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -526,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
 hash = "fa82b4c7cf2b2b3a3a3d0b5afbd624d8036f6201a9c1854f3ba3c0c8feb254f9"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix.pw.toml"
+hash = "13fc74e109e1c13eb5dbe9208fffab118d7d8b390d024743552fad0abfa9489d"
 metafile = true
 
 [[files]]
@@ -944,6 +949,11 @@ hash = "551bc9cba0d2f7d37dd2d436032108851d0078035e73c032d6ca77742dcbb289"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
+metafile = true
+
+[[files]]
 file = "mods/yawp.pw.toml"
 hash = "468b6bb283ce57cb52bee981c2aff112cbfca167c3a14899b242b44ec16873c0"
 metafile = true
@@ -1006,4 +1016,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "c372ea79a6f321271e6861bbb91dc51cd51467f3800e0d5554515e1705942c7b"
 metafile = true
