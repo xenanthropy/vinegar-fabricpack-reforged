@@ -50,6 +50,11 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "c6ebb5fe80b62026c9c2460d6079caaa5f7347d7523b5c6baa4f28295f05663d"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
@@ -755,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d6d950f5e4c8d00ae178690e45a47068792733e7652fe600e83f6995a1c1f798"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
