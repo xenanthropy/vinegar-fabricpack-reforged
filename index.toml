@@ -454,11 +454,6 @@ hash = "f5d1eeb1669709abdfb680651900bac62b2779a687c7d804f06484df1fdcd5b8"
 metafile = true
 
 [[files]]
-file = "mods/gobber-fabric.pw.toml"
-hash = "bc016a8bce5c8bd50aba3965768dd51e4b52acf022ff0d6e6b029a13843d9a28"
-metafile = true
-
-[[files]]
 file = "mods/holograms.pw.toml"
 hash = "0210d3ca5fa16e7fa066f024cbbc500ebb71d5043c46dc23d4d045d7c77b900a"
 metafile = true
@@ -981,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "2747bdcecb68ac10a8af7f86bc38f09c4ed6959b7396834c241ebdab7d046332"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "d2f6dff140756280cc8cb614db7a1cfca20be8d359e7b82a41067c66acbcf44f"
 metafile = true
 
 [[files]]
