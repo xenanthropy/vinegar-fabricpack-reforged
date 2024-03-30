@@ -1,0 +1,17 @@
+name = "XaeroPlus"
+filename = "XaeroPlus-2.6+fabric-1.20.1-WM1.38.1-MM24.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/wajBVV32/XaeroPlus-2.6%2Bfabric-1.20.1-WM1.38.1-MM24.0.3.jar"
+hash-format = "sha1"
+hash = "301f6ee49179a6abd4f8bde9ea6a17150bb3e746"
+
+[update]
+[update.modrinth]
+mod-id = "EnPUzSTg"
+version = "wajBVV32"
+
+[option]
+optional = true
+description = "Extra helpful additions to Xaero's mini/world map\nREQUIRES XAERO'S MODS"

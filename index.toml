@@ -419,18 +419,8 @@ hash = "e12efb0447977a5259d05fbbb05049cc73a15314058761fb276485c70b86fe37"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "c4bd60b5f2810d1b1fe3091fdab3a80636c91e15a815cee9b6052fb882958ca3"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "e643012515e7d49d5b162da782b68eb6bab50dc482d3db1eb1efed46ad95178c"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "561148f4edbf3e020fa82268ab0895e34008ebff9b120e7b070a6a26f1e262de"
 metafile = true
 
 [[files]]
@@ -671,6 +661,16 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
 metafile = true
 
 [[files]]
@@ -946,6 +946,21 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "551bc9cba0d2f7d37dd2d436032108851d0078035e73c032d6ca77742dcbb289"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "4a632617399538d1a35103f4d34a3765b7ed2941e1a2b50ece6cf20c941a3552"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "72f5d2f4885dee6027ce64fbe30c93fc8ddbca46b2ba5bb0378dfc205eece5e8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1b2371bbc9cd3c97e582350746303972f8e7c8ecb0abd3eab27e8bab47fabbe2"
 metafile = true
 
 [[files]]
