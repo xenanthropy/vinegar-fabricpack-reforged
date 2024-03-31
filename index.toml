@@ -60,6 +60,10 @@ hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
 
 [[files]]
+file = "mods/aylyth-1.20.1-2.0.2.jar"
+hash = "d0cae91bd47485894667825478a2f0887b661dac94f24dca89ffa2c4539394dd"
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
