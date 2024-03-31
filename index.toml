@@ -660,11 +660,6 @@ hash = "e54de2fe5f6790f00b9d7b028f6769fd568a06ee23451f93e0510b5a7a617c6d"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "a6811c7e6f26a2a2ef55294975af0ebd423f48c935996b78fd538ea4b728e013"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
