@@ -60,10 +60,6 @@ hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
 
 [[files]]
-file = "mods/aylyth-1.20.1-2.0.2.jar"
-hash = "d0cae91bd47485894667825478a2f0887b661dac94f24dca89ffa2c4539394dd"
-
-[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "985f249187621a319cdcf445e2e8bfe0b5294c6194b40635191578389ff3de92"
 metafile = true
@@ -579,6 +575,11 @@ hash = "3b3f3e6eea10c185d465b8c0bc887a5ef559d2b035ecdd3b197dec3a5a5465ae"
 metafile = true
 
 [[files]]
+file = "mods/manic.pw.toml"
+hash = "9714cf6042d9b40be8a2588fefaad0b241552feff821ce9f8ae01e201cca71ac"
+metafile = true
+
+[[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
 hash = "05e966beea716a75f9b58ce911233eedc07719124015a5d01f95d0c99ca12f8f"
 metafile = true
@@ -646,11 +647,6 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
-metafile = true
-
-[[files]]
-file = "mods/nevermore.pw.toml"
-hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
 metafile = true
 
 [[files]]
