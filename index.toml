@@ -425,11 +425,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/forgiving-world.pw.toml"
-hash = "040d02ad589e0ebb2bc6b829e1ec983c3a3e6cb269811f33af069397fe97b4d0"
-metafile = true
-
-[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "e12efb0447977a5259d05fbbb05049cc73a15314058761fb276485c70b86fe37"
 metafile = true
