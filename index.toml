@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
+file = "mods/ae2-emi-crafting-integration.pw.toml"
+hash = "e5c2988c374c10e9e4f0ac591507a85a03e741cce2e1222a45c57abd1d98075c"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "1bc328e5477ce87bb27110fd90258de8767f9ffef86434ae0c0c301292c29fb0"
 metafile = true
