@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration-fabric.pw.toml"
-hash = "3c5399592fd7617849de2b155a9222c2863fb80d8197b582cae5ef8d77fb5512"
+hash = "80daa9a8b85e7f83d1ed1cf533bb3a18bf5140261d8eb9b23a60cf984f0cd25d"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "80fee887ee097e11032d6de2ac705010fba0f25e8d45704124e0d0582b9a8ba0"
+hash = "2983d7012c7d26bf4c9e7e0509e8be68f43c9a9b77b731ad55ff360ce4da68a5"
 metafile = true
 
 [[files]]
