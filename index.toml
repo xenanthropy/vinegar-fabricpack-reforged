@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "2d48222b38a8e23df2d93447faec394b6191528516314517169d52f60a28a2bc"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
 
 [[files]]
