@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5209057
 project-id = 495267
+
+[option]
+optional = true
+description = "Inventory sorting mod, adds a lot of helpful features"
