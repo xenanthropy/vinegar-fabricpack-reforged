@@ -495,8 +495,8 @@ hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "804c0a4d962afa7ed6a207bed0ae6dcb9d6ed0215c1b3c01a936421c55618634"
 metafile = true
 
 [[files]]
@@ -572,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "84d0b6884c10f1741badea158f7f076c6cfd2eb27eec2395960a5b7aaaaa1a35"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "83c16cd202133d63146227b1635a1f767243c8189427ded90e1d913edc4c44c1"
 metafile = true
 
 [[files]]
