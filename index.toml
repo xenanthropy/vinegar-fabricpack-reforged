@@ -30,6 +30,11 @@ hash = "2794e54121a624024d7869980cdb7b25d617c2a94b67fb07a6215fe1ba069b55"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
 file = "mods/antixray.pw.toml"
 hash = "1511b8c9a032d2ff744f09dfffa67de7b77cb4d6c6f4f499b1211bbedfcbbe56"
 metafile = true
