@@ -480,6 +480,11 @@ hash = "f5d1eeb1669709abdfb680651900bac62b2779a687c7d804f06484df1fdcd5b8"
 metafile = true
 
 [[files]]
+file = "mods/hearth-and-home.pw.toml"
+hash = "5ff450b2e45f34c9d2fb06b569d3d427ab9bb0371eb209935fd1ddde9d2c40bb"
+metafile = true
+
+[[files]]
 file = "mods/holograms.pw.toml"
 hash = "0210d3ca5fa16e7fa066f024cbbc500ebb71d5043c46dc23d4d045d7c77b900a"
 metafile = true
@@ -707,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "2a160e86f3507d7cf3ba12b6af16b8ef1df045b2e6ed43d558221e49f62830a6"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "b54527211d535fcdfaf523e11fe60e2359120a95644c27f9a1913ed61eb7fa2a"
 metafile = true
 
 [[files]]
