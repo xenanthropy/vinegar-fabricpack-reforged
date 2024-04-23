@@ -510,6 +510,11 @@ hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
 
 [[files]]
+file = "mods/inv-view.pw.toml"
+hash = "3c72415ef049cfd052f8722d47a4802f8c9430a6fcd730acdbfe51ff17d3d642"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "e406a646ba68e7ffdb40ac74eb6cacb67b7545586df970bfe1c49c548d562406"
 metafile = true
