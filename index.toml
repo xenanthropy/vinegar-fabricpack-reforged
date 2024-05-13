@@ -50,6 +50,11 @@ hash = "6b525f6a307cdf9b73ebb7ef6266e4a206cbe5524274f444e52d5e8968348033"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "b80480e811393256fd5a1e7962162ccc03d145762a96b1bc142dad21ac6a3d6a"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "89cb799fbac48bd2d1bd879c11b6426bf89f399f866563625f2a0ec38868d316"
 metafile = true
